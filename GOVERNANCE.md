@@ -1,4 +1,4 @@
-# Project Governance
+# Project Governance 
 
 This document defines the governance process for the CEL language. CEL is
 Google-developed, but openly governed. Major contributors to the CEL
