@@ -3,7 +3,7 @@
 // 	protoc-gen-go v1.36.10
 // 	protoc        v5.27.1
 // source: cel/expr/syntax.proto
-
+ 
 package expr
 
 import (
