@@ -1,5 +1,5 @@
 # Contributor Code of Conduct
-## Version 0.1.1 (adapted from 0.3b-angular)
+## Version 0.1.1 (adapted from 0.3b-angular) 
 
 As contributors and maintainers of the Common Expression Language
 (CEL) project, we pledge to respect everyone who contributes by
