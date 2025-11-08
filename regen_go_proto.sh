@@ -7,3 +7,4 @@ do
   echo "copying $dst"
   $(cp $src $dst)
 done
+
